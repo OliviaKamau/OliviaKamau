@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Olivia!
+# Hi, I'm Olivia Kamau!
 
 🎓 I'm a sophomore majoring in Computer Science at Middlesex College
 
