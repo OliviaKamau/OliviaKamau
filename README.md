@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <a href= "https://www.w3schools.com/css/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" height="40" width="40"/>
 </a>
-<a href="https://www.python.org/" target="blank">
+<!-- <a href="https://www.python.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
-</a>
+</a> -->
 <a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="blank">
 <img align="center" src="https://seeklogo.com/images/M/mips-logo-A2C5DD00CD-seeklogo.com.png" alt="MIPS Assembly" height="40" width="40" />
 </a>
