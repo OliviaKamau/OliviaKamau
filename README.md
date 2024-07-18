@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Olivia Kamau!
 
-🎓 I'm a sophomore majoring in Computer Science at Middlesex College
+🎓 I'm a sophomore majoring in Computer Science at Middlesex College, transferring into Rutgers University this Fall!
 
 🖥️ Interests: Software Engineering, Information Technology and Cybersecurity
 
