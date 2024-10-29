@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 # Hi, I'm Olivia Kamau!
 
-🎓 I'm a Computer Science major at Rutgers University!
+🎓 I'm a junior undergraduate at Rutgers University!
+
+  💻 Major: Computer Science (B.S)
+  🧠 Minor: Cognitive Science
 
 🖥️ Interests: Software Engineering, Information Technology and Cybersecurity
 
