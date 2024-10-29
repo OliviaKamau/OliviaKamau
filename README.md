@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 I'm a junior undergraduate at Rutgers University!
 
-  💻 Major: Computer Science (B.S)
+  💻 Major: Computer Science (B.S) <br>
   🧠 Minor: Cognitive Science
 
 🖥️ Interests: Software Engineering, Information Technology and Cybersecurity
