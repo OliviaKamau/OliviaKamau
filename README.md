@@ -56,7 +56,12 @@ Here are some ideas to get you started:
 </a>
 
 ## Connect with me:
+<!-- LinkedIn logo -->
 <a href="https://www.linkedin.com/in/olivia-kamau/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Olivia_Kamau-%230A66C2?logo=linkedin" alt="Linkedin" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" height="40" width="40" alt="LinkedIn" />
 </a>
 
+<!-- Devpost logo -->
+<a href="https://devpost.com/OliviaKamau" target="blank">
+<img align="center" src="https://images.seeklogo.com/logo-png/32/1/devpost-logo-png_seeklogo-320001.png?v=1957119226797658632" height="40" width="40" alt="Devpost" />
+</a>
