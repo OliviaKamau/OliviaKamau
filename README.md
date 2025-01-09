@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Olivia Kamau!
+# Hi, I'm Olivia Kamau
 
-🎓 I'm a junior undergraduate at Rutgers University!
-
-  💻 Major: Computer Science (B.S) <br>
+![](https://komarev.com/ghpvc/?username=Olivia&color=ff775e&style=for-the-badge&label=PROFILE+VIEWS) <br/>
+  
+  🎓 I'm a junior undergraduate at Rutgers University! <br/>
+  💻 Major: Computer Science (B.S) <br/>
   🧠 Minor: Cognitive Science
 
 🖥️ Interests: Software Engineering, Information Technology, Automation and Cybersecurity
