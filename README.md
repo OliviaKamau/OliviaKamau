@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Olivia Kamau
 
-![](https://komarev.com/ghpvc/?username=Olivia&color=ff775e&style=for-the-badge&label=PROFILE+VIEWS) <br/>
+![](https://komarev.com/ghpvc/?username=Olivia&color=ff775e&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true) <br/>
   
   🎓 I'm a junior undergraduate at Rutgers University! <br/>
   💻 Major: Computer Science (B.S) <br/>
