@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Olivia&color=ff775e&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true) <br/>
   
-  🎓 I'm a junior undergraduate at Rutgers University! <br/>
+  🎓 I'm a junior undergraduate student at Rutgers University <br/>
   💻 Major: Computer Science (B.S) <br/>
   🧠 Minor: Cognitive Science
 
