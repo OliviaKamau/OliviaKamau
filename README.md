@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <!-- Devpost logo -->
 <a href="https://devpost.com/OliviaKamau" target="blank">
-<img align="center" src="https://images.seeklogo.com/logo-png/32/1/devpost-logo-png_seeklogo-320001.png?v=1957119226797658632" height="40" width="40" alt="Devpost" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYfAWCMNlxAUEK-vLiJTcIso80_tQRcDTDxg&s" height="40" width="40" alt="Devpost" />
 </a>
 
 <!-- ## Stats:
