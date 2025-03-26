@@ -77,6 +77,11 @@ Here are some ideas to get you started:
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/410px-Git-logo-orange.svg.png?20161028013930" alt="Git" height="40" width="40"/>
 </a>
 
+<!--C logo-->
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" height="40" width="40"/>
+</a>
+
 ## Connect with me:
 <!-- LinkedIn logo -->
 <a href="https://www.linkedin.com/in/olivia-kamau/" target="blank">
