@@ -84,10 +84,10 @@ Here are some ideas to get you started:
 </a>
 
 
-<!--Top Languages Donut-->
+<!--Top Languages Stats Donut-->
 ## Stats:
 <p>
-  <img src="https://githubcard.com/OliviaKamau.svg?d=ixDIr89Z"/>
+  <img src="https://githubcard.com/OliviaKamau.svg?d=k0w9dZmh" alt="Stats Dial" height="400" width="500"/>
 </p>
 
 ## Connect with me:
