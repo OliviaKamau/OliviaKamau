@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <!--Top Languages Stats Donut-->
 ## Stats:
 <p>
-  <img src="https://githubcard.com/OliviaKamau.svg?d=k0w9dZmh" alt="Stats Dial" height="400" width="500"/>
+  <img src="https://githubcard.com/OliviaKamau.svg?d=k0w9dZmh" alt="Stats Dial" height="200" width="400"/>
 </p>
 
 ## Connect with me:
