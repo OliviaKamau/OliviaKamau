@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!-- Postgres logo -->
 <a href="https://www.postgresql.org/" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="40" width="40" />
 </a>
 
 <!-- SpringBoot logo -->
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <!--VS Code logo-->
 <a href="https://code.visualstudio.com/" target="blank">
-    <img align="center" src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="40" width="40"/>
+    <img align="center" src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS Code" height="40" width="40"/>
 </a>
 
 <!--Eclipse logo-->
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <!--Git logo-->
 <a href="https://git-scm.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Git-logo-orange.svg/410px-Git-logo-orange.svg.png?20161028013930" alt="Git" height="40" width="40"/>
+    <img align="center" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40" width="40"/>
 </a>
 
 <!--C logo-->
