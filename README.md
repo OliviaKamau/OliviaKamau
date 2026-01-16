@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Olivia Kamau
 
+<!-- Profile Viewers Card -->
 ![](https://komarev.com/ghpvc/?username=Olivia&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true) <br/>
   
   🎓 I'm a junior undergraduate student at Rutgers University <br/>
@@ -81,6 +82,13 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="C" height="40" width="40"/>
 </a>
+
+
+<!--Top Languages Donut-->
+## Stats:
+<p>
+  <img src="https://githubcard.com/OliviaKamau.svg?d=ixDIr89Z"/>
+</p>
 
 ## Connect with me:
 <!-- LinkedIn logo -->
